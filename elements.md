@@ -4,7 +4,6 @@ title: In short
 nav-menu: true
 ---
 
-
 In an era of grave threats to the world’s collective goods—most importantly, peace, health, and the natural environment—international cooperation is more important than ever. Nation-states and multilateral institutions have failed to catalyze meaningful action against climate change, political violence, epidemic diseases, and a host of other pressing issues. We propose a new governance framework: a Global Cooperative (henceforth “the Cooperative”) that pools the ideas and resources of individuals across the world in a digital network, and directs these resources towards sustainable governance of the world’s collective goods. Members of the Cooperative are best described as citizen-trustees: citizens of a new global community, and trustees of the human and natural capital that will support future generations.
 
 All people in the world are eligible to be citizen-trustees of the Cooperative. At the core of the Cooperative is the idea that global grassroots partnerships can make changes that more centralized institutions cannot, linking political constituencies, pooling resources, and coordinating action.
